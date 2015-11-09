@@ -18,6 +18,7 @@ public class Javaprueba1 {
         System.out.println("Este Codido esta subido Repositorio");
         System.out.print("Prueba 1"+"\n");
         System.out.println("Nombre");
+        System.out.println("Nombre");
         // TODO code application logic here
     }
     
